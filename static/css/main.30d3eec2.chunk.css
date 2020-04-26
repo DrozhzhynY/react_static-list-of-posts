@@ -1,0 +1,2 @@
+.App{display:grid;grid-template-columns:1fr;grid-gap:30px;gap:30px;text-align:center}.posts__user{justify-content:space-around}.posts__comment,.posts__user{display:flex;align-items:center}.posts__comment{flex-direction:column;background-color:#fff;padding:10px}.posts__comment-name{margin-bottom:10px;text-transform:capitalize}.posts__comment-email{margin-bottom:10px}.posts__item{background-color:grey;padding:10px}.posts__title{margin:0 auto;text-transform:uppercase}
+/*# sourceMappingURL=main.30d3eec2.chunk.css.map */
